@@ -17,7 +17,8 @@ Web To Desktop Convert Your Website to a Electron Desktop Application <br>
 
 ## Application Screenshots
 
-<img width="390" src="https://raw.githubusercontent.com/meforce/Web-To-Desktop/main/images/web-to-desktop-1.jpg"/><img width="390" src="https://raw.githubusercontent.com/meforce/Web-To-Desktop/main/images/web-to-desktop-2.jpg"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/Web-To-Desktop/main/images/web-to-desktop-1.jpg"/>
+<img width="390" src="https://raw.githubusercontent.com/meforce/Web-To-Desktop/main/images/web-to-desktop-2.jpg"/>
 <br>
 <img width="390" src="https://raw.githubusercontent.com/meforce/Web-To-Desktop/main/images/web-to-desktop-3.jpg"/>
 <img width="390" src="https://raw.githubusercontent.com/meforce/Web-To-Desktop/main/images/web-to-desktop-4.jpg"/>
