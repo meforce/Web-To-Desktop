@@ -34,7 +34,7 @@ Download `.exe` File [Releases Page](https://github.com/meforce/Web-To-Desktop/r
 Releasing Web To Desktop for the Windows package Chocolatey could be our next step.
 
 
-<a href="https://github.com/meforce/Web-To-Desktop/releases/download/v1.0.0/Web-To-Desktop-Setup-1.0.0.exe"> 
+<a href="https://github.com/meforce/Web-To-Desktop/releases/download/v1.0.1/Web-To-Desktop-Setup-1.0.1.exe"> 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/Web-To-Desktop?color=blue&label=CLICK-DOWNLOAD-WINDOWS-EXE&logo=windows&logoColor=white&style=for-the-badge"></a>
 
 ### Mac
