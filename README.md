@@ -1,4 +1,4 @@
-<h1 align="center">Web To Desktop</h1>
+<h1 align="center">Web To Desk</h1>
 <p align="center">
 <img src="https://raw.githubusercontent.com/meforce/Web-To-Desktop/main/images/logo.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/yaani-logo-min.png" width="250" height="250" align="center"/><br><br>
 Web To Desktop Convert Your Website to a Electron Desktop Application <br>
