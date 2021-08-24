@@ -1,4 +1,4 @@
-<h1 align="center">Web To Desk</h1>
+<h1 align="center">Web To Desktop</h1>
 <p align="center">
 <img src="https://raw.githubusercontent.com/meforce/Web-To-Desktop/main/images/logo.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://raw.githubusercontent.com/meforce/yaani/main/assets/image/yaani-logo-min.png" width="250" height="250" align="center"/><br><br>
 Web To Desktop Convert Your Website to a Electron Desktop Application <br>
@@ -12,7 +12,7 @@ Web To Desktop Convert Your Website to a Electron Desktop Application <br>
 <!--<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/meforce/yaani/build?style=for-the-badge">-->
 <a href="https://github.com/meforce/Web-To-Desktop/releases/latest">
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/Web-To-Desktop?color=tuquoise&label=EN-SON&logo=github&logoColor=white&style=for-the-badge"></a>
-<a href="https://discord.gg/vWExS7F"><img alt="Discord" src="https://img.shields.io/discord/699656586423173161?color=%237289DA&label=discord&logo=Discord&logoColor=white&style=for-the-badge"></a>
+<a href="https://discord.gg/dmWPGE4JFM"><img alt="Discord" src="https://img.shields.io/discord/876934826186395658?color=%237289DA&label=discord&logo=Discord&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ## Application Screenshots
